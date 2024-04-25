@@ -36,7 +36,9 @@ h3 {
 h5 {
     font-size: medium;
 }
-
+header img {
+    width: 70px;
+}
 .container__tittle-index {
     background-color: var(--celeste-basic-color);
     margin-top: 5px;

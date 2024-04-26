@@ -28,7 +28,9 @@ body {
     background: url(../assets/img/background/wall_op05_2.jpg);
     font-size: medium;
 }
-
+h1 {
+    color: gold;
+}
 h3 {
     padding-top: 10px;
 }

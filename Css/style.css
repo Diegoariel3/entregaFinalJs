@@ -49,12 +49,12 @@ header img {
 .container__usuario {
     background-color: var(--celeste-basic-color);
     margin-top: 5px;
-    padding: 5px;
+    padding: 10px;
 }
 
 #infoUsuario {
     display: flex;
-    font-size: medium;
+    font-size: x-large;
     font-weight: bold;
 }
 

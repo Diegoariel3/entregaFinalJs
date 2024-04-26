@@ -1,0 +1,88 @@
+[
+    { 
+        "productoId": "1", 
+        "productoNombre": "Camiseta", 
+        "productoImagen":"./Assets/Img/boca1.webp", 
+        "productoColor": "Titular", 
+        "productoCosto": 13500
+    },
+
+    { 
+        "productoId": "2", 
+        "productoNombre": "Conjunto",
+        "productoImagen":"./Assets/Img/boca2.webp", 
+        "productoColor": "Titular",
+        "productoCosto": 65000
+    },
+    { 
+        "productoId": "3", 
+        "productoNombre": "Camiseta", 
+        "productoImagen":"./Assets/Img/boca3.webp",
+        "productoColor": "Titular",
+        "productoCosto": 20000
+    },
+    { 
+        "productoId": "4", 
+        "productoNombre": "Camiseta",
+        "productoImagen":"./Assets/Img/boca4.webp",
+        "productoColor": "Titular",
+        "productoCosto": 7500
+    },
+    { 
+        "productoId": "5", 
+        "productoNombre": "Campera", 
+        "productoImagen":"./Assets/Img/boca5.webp",
+        "productoColor": "Titular", 
+        "productoCosto": 45000
+    },
+    { 
+        "productoId": "6", 
+        "productoNombre": "Camiseta",
+        "productoImagen":"./Assets/Img/boca6.webp",
+        "productoColor": "Titular",
+        "productoCosto": 10000
+    },
+    { 
+        "productoId": "7", 
+        "productoNombre": "Camiseta",
+        "productoImagen":"./Assets/Img/boca7.webp", 
+        "productoColor": "Titular",
+        "productoCosto": 8000
+    },
+    { 
+        "productoId": "8", 
+        "productoNombre": "Camiseta",
+        "productoImagen":"./Assets/Img/boca8.webp",
+        "productoColor": "Titular", 
+        "productoCosto": 8500
+    },
+    { 
+        "productoId": "9", 
+        "productoNombre": "Camiseta",
+        "productoImagen":"./Assets/Img/boca9.webp",
+        "productoColor": "Titular",
+        "productoCosto": 65000
+    },
+    { 
+        "productoId": "10",
+        "productoNombre": "Camiseta", 
+        "productoImagen":"./Assets/Img/boca10.webp",
+        "productoColor": "Alternativa", 
+        "productoCosto":5000
+    },
+    { 
+        "productoId": "11",
+        "productoNombre": "Camiseta", 
+        "productoImagen":"./Assets/Img/boca11.webp",
+        "productoColor": "Alternativa",
+        "productoCosto": 7500
+    },
+    { 
+        "productoId": "12",
+        "productoNombre": "Camiseta", 
+        "productoImagen":"./Assets/Img/boca12.webp",
+        "productoColor": "Alternativa",
+        "productoCosto": 8500
+    }
+
+]

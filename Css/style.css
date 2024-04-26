@@ -12,7 +12,7 @@
     --dark-basic-color: #2B3035;
     --white-basic-color: #fffcfc;
     --rosa-regular-color: #f1b0fa78;
-    --rosa-transparente-color: #ecd0f0ce;
+    --celeste-transparente-color: #18b5f3ce;
     box-sizing: border-box;
     margin: 1px;
     padding: 0;
@@ -45,7 +45,7 @@ header img {
 }
 
 .container__usuario {
-    background-color: var(--rosa-basic-color);
+    background-color: var(--celeste-basic-color);
     margin-top: 5px;
     padding: 5px;
 }
@@ -65,7 +65,7 @@ header img {
 }
 
 #contenedor-general {
-    background-color: var(--rosa-transparente-color);
+    background-color: var(--celeste-transparente-color);
     border: 2 solid black;
     padding: 10px;
     margin: 2%;

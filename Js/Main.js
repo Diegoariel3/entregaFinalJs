@@ -122,14 +122,14 @@ function pagoTotal(precio) {
 let btnFinalizar = document.getElementById("btnFinalizar");
 btnFinalizar.addEventListener("click", () => {
   Swal.fire({
-    title: "Gracias por comprar Tranca",
+    title: "Gracias por comprar Xeneize",
     text: `N° orden: ${Math.floor(
       Math.random() * 5000
     )} - Tu cuenta es de $${total}`,
-    imageUrl: "./assets/img/tranca/tranca_final.jpg",
+    imageUrl: "./Assets/Img/bombonera.webp",
     imageWidth: 300,
     imageHeight: 300,
-    imageAlt: "Tranca perrita",
+    imageAlt: "Estadio",
     showDenyButton: true,
     showCancelButton: false,
     confirmButtonText: "Finalizar",
